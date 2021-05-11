@@ -29,7 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Design screenshot for the Stats preview card component coding challenge](./design/screenshot.jpg)
+![](./screenshot.jpg)
+
+Above is what you should see when you click on the link below.
 
 ### Links
 
