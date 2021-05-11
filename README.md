@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/screenshot.jpg)
+![Design screenshot for the Stats preview card component coding challenge](./design/screenshot.jpg)
 
 ### Links
 
@@ -51,9 +51,6 @@ I learned a lot about the differences between images and background-images and h
 
 I learnt how to display items in the container in reverse order using flex-direction: row-reverse, which can be seen in the below snippet.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 @media (min-width: 768px) {
 	.container {
